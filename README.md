@@ -1,3 +1,9 @@
+# Desenvolvimento Web Front-End
+## Aula 02 sobre:
+* Criação de rotas básicas;
+* Criação de componentes e
+* Modularização.
+
 # ModeloNgxBootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
